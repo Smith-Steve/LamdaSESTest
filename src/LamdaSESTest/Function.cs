@@ -26,7 +26,7 @@ public class Function
     //Text Body Of Email
     static readonly string textBody = "This is a test.";
 
-    static async void FunctionHandler()
+    static void FunctionHandler()
     {
             using (var client = new AmazonSimpleEmailServiceClient(RegionEndpoint.USWest2))
             {
