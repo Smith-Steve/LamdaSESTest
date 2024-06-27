@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8X31qz05N8QISLadVFDBWJ96FgfuqLGKLrNMMgk/nrSXhYk24TAPsxU/6wNuea7KmyKbv2sbOikaOsBrV03AaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Steph\\OneDrive\\Desktop\\Personal\\Personal_Repos\\AWS\\LamdaSESTest\\src\\LamdaSESTest\\LamdaSESTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Steph\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Steph\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "C:\\Users\\Steph\\.nuget\\packages\\awssdk.core\\3.7.304.20\\awssdk.core.3.7.304.20.nupkg.sha512",
+    "C:\\Users\\Steph\\.nuget\\packages\\awssdk.simpleemail\\3.7.300.109\\awssdk.simpleemail.3.7.300.109.nupkg.sha512",
+    "C:\\Users\\Steph\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.4\\microsoft.netcore.app.crossgen2.win-x64.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
