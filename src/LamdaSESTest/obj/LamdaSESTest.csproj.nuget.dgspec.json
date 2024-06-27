@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steph\\OneDrive\\Desktop\\Personal\\Personal_Repos\\AWS\\LamdaSESTest\\src\\LamdaSESTest\\LamdaSESTest.csproj": {}
+    "C:\\Users\\Steph\\OneDrive\\Desktop\\Personal\\Personal_Repos\\AWS\\LamdaSEStest\\src\\LamdaSESTest\\LamdaSESTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steph\\OneDrive\\Desktop\\Personal\\Personal_Repos\\AWS\\LamdaSESTest\\src\\LamdaSESTest\\LamdaSESTest.csproj": {
+    "C:\\Users\\Steph\\OneDrive\\Desktop\\Personal\\Personal_Repos\\AWS\\LamdaSEStest\\src\\LamdaSESTest\\LamdaSESTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steph\\OneDrive\\Desktop\\Personal\\Personal_Repos\\AWS\\LamdaSESTest\\src\\LamdaSESTest\\LamdaSESTest.csproj",
+        "projectUniqueName": "C:\\Users\\Steph\\OneDrive\\Desktop\\Personal\\Personal_Repos\\AWS\\LamdaSEStest\\src\\LamdaSESTest\\LamdaSESTest.csproj",
         "projectName": "LamdaSESTest",
-        "projectPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\Personal\\Personal_Repos\\AWS\\LamdaSESTest\\src\\LamdaSESTest\\LamdaSESTest.csproj",
+        "projectPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\Personal\\Personal_Repos\\AWS\\LamdaSEStest\\src\\LamdaSESTest\\LamdaSESTest.csproj",
         "packagesPath": "C:\\Users\\Steph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\Personal\\Personal_Repos\\AWS\\LamdaSESTest\\src\\LamdaSESTest\\obj\\",
+        "outputPath": "C:\\Users\\Steph\\OneDrive\\Desktop\\Personal\\Personal_Repos\\AWS\\LamdaSEStest\\src\\LamdaSESTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Steph\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,7 +71,15 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[8.0.4, 8.0.4]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[8.0.4, 8.0.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
               "version": "[8.0.4, 8.0.4]"
             }
           ],
@@ -81,6 +89,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }

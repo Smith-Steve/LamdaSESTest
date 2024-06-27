@@ -1,0 +1,8 @@
+C:\Users\Steph\OneDrive\Desktop\Personal\Personal_Repos\AWS\LamdaSEStest\src\LamdaSESTest\bin\Release\net8.0\publish\LamdaSESTest.deps.json
+C:\Users\Steph\OneDrive\Desktop\Personal\Personal_Repos\AWS\LamdaSEStest\src\LamdaSESTest\bin\Release\net8.0\publish\LamdaSESTest.runtimeconfig.json
+C:\Users\Steph\OneDrive\Desktop\Personal\Personal_Repos\AWS\LamdaSEStest\src\LamdaSESTest\bin\Release\net8.0\publish\LamdaSESTest.pdb
+C:\Users\Steph\OneDrive\Desktop\Personal\Personal_Repos\AWS\LamdaSEStest\src\LamdaSESTest\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Steph\OneDrive\Desktop\Personal\Personal_Repos\AWS\LamdaSEStest\src\LamdaSESTest\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Steph\OneDrive\Desktop\Personal\Personal_Repos\AWS\LamdaSEStest\src\LamdaSESTest\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\Steph\OneDrive\Desktop\Personal\Personal_Repos\AWS\LamdaSEStest\src\LamdaSESTest\bin\Release\net8.0\publish\AWSSDK.SimpleEmail.dll
+C:\Users\Steph\OneDrive\Desktop\Personal\Personal_Repos\AWS\LamdaSEStest\src\LamdaSESTest\bin\Release\net8.0\publish\LamdaSESTest.dll
